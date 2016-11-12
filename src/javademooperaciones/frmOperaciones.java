@@ -97,7 +97,7 @@ public class frmOperaciones extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         int numeroA = Integer.parseInt(txtnumeroa.getText());
         int numeroB = Integer.parseInt(txtnumerob.getText());
-    JOptionPane.showMessageDialog(this,"La suma es:" +(numeroA+numeroB) );        // TODO add your handling code here:
+    JOptionPane.showMessageDialog(this,"La suma es   :" +(numeroA+numeroB) );        // TODO add your handling code here:
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
